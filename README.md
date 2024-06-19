@@ -1,8 +1,8 @@
-![banner](images\banner.png)
+![banner](banner.png)
 
 ## Overview
 
-![methodology](images\methodology.png)
+![methodology](methodology.png)
 
 
 This project forecasts the **aggregate hourly taxi demand for New York City pick-up locations, seven days in advance**. Unlike many projects using the NYC Taxi Trip dataset, this project sought to forecast city-wide demand across all taxi vendors, from 2015 - 2023 H1. This presented the critical challenge of processing 1.9 billion rows in the raw dataset to develop a predictive model.

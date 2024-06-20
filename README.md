@@ -11,7 +11,7 @@ Utilizing AWS EMR and S3, this project leveraged Apache Spark to train numerous 
 
 ## Notes
 
-This project was developed in AWS EMR and makes use of a non-public personal S3 bucket. The notebooks are therefore for preview purposes only and will not run without proper modifications.
+This project was developed in AWS EMR studio and makes use of a non-public personal S3 bucket. The notebooks are therefore for preview purposes only and will not run without proper modifications.
 
 ## References
 
